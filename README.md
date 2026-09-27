@@ -22,27 +22,30 @@
 <p align="center">I am learning/using these coding languages!</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square" alt="Kotlin Badge">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square" alt="Rust Badge">
+  <img src="./assets/badges/nix.svg"       alt="Nix Badge">
+  <img src="./assets/badges/cplusplus.svg" alt="C++ Badge">
+  <img src="./assets/badges/kotlin.svg"    alt="Kotlin Badge">
+  <img src="./assets/badges/rust.svg"      alt="Rust Badge">
+  <img src="./assets/badges/csharp.svg"    alt="C# Badge">
+  <img src="./assets/badges/java.svg"      alt="Java Badge">
+  <img src="./assets/badges/python.svg"    alt="Python Badge">
 </p>
 
 ## Preferences
 
 | Fields       | Solutions |
 |:------------:|:---------:|
-| System       | <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=flat-square" alt="NixOS Badge"> |
-| Compositor   | <img src="https://img.shields.io/badge/niri-D55C44?logo=niri&logoColor=fff&style=flat-square" alt="niri Badge"> |
-| Terminal     | <img src="https://img.shields.io/badge/Ghostty-3551F3?logo=ghostty&logoColor=fff&style=flat-square" alt="Ghostty Badge"> |
-| Editor       | <img src="https://img.shields.io/badge/Helix-281733?logo=helix&logoColor=fff&style=flat-square" alt="Helix Badge"> |
-| Shell        | <img src="https://img.shields.io/badge/Nushell-4E9A06?logo=nushell&logoColor=fff&style=flat-square" alt="Nushell Badge"> |
-| Writing      | <img src="https://img.shields.io/badge/Typst-239DAD?logo=typst&logoColor=fff&style=flat-square" alt="Typst Badge"> |
-| Repositories | <img src="https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square" alt="Codeberg Badge"> |
+| System       | <img src="./assets/badges/nixos.svg"    alt="NixOS Badge"> |
+| Compositor   | <img src="./assets/badges/niri.svg"     alt="niri Badge"> |
+| Terminal     | <img src="./assets/badges/ghostty.svg"  alt="Ghostty Badge"> |
+| Editor       | <img src="./assets/badges/helix.svg"    alt="Helix Badge"> |
+| Shell        | <img src="./assets/badges/nushell.svg"  alt="Nushell Badge"> |
+| Writing      | <img src="./assets/badges/typst.svg"    alt="Typst Badge"> |
+| Repositories | <img src="./assets/badges/codeberg.svg" alt="Codeberg Badge"> |
 
 ## Links
 
 <p align="center">
-  <a href="https://codeberg.org/AstroNot233"><img src="https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square" alt="Codeberg Badge"></a>
-  <a href="https://github.com/AstroNot233"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge"></a>
+  <a href="https://codeberg.org/AstroNot233"><img src="./assets/badges/codeberg.svg" alt="Codeberg Badge"></a>
+  <a href="https://github.com/AstroNot233"><img src="./assets/badges/github.svg" alt="GitHub Badge"></a>
 </p>
